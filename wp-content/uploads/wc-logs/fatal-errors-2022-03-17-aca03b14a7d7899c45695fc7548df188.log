@@ -1,0 +1,47 @@
+2022-03-17T18:23:36+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_wp_select() in C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php:13
+Stack trace:
+#0 C:\OSPanel\domains\testwork.loc\wp-settings.php(555): include()
+#1 C:\OSPanel\domains\testwork.loc\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\testwork.loc\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\testwork.loc\wp-admin\admin-ajax.php(22): require_once('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown в C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php на строке 13
+
+2022-03-17T18:24:57+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_wp_select() in C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php:13
+Stack trace:
+#0 C:\OSPanel\domains\testwork.loc\wp-settings.php(555): include()
+#1 C:\OSPanel\domains\testwork.loc\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\testwork.loc\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\testwork.loc\wp-admin\admin-ajax.php(22): require_once('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown в C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php на строке 13
+
+2022-03-17T18:24:59+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_wp_select() in C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php:13
+Stack trace:
+#0 C:\OSPanel\domains\testwork.loc\wp-settings.php(555): include()
+#1 C:\OSPanel\domains\testwork.loc\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\testwork.loc\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\testwork.loc\wp-admin\admin.php(34): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\testwork.loc\wp-admin\post.php(12): require_once('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php на строке 13
+
+2022-03-17T18:24:59+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_wp_select() in C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php:13
+Stack trace:
+#0 C:\OSPanel\domains\testwork.loc\wp-settings.php(555): include()
+#1 C:\OSPanel\domains\testwork.loc\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\testwork.loc\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\testwork.loc\wp-admin\admin-ajax.php(22): require_once('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown в C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php на строке 13
+
+2022-03-17T18:25:00+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_wp_select() in C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php:13
+Stack trace:
+#0 C:\OSPanel\domains\testwork.loc\wp-settings.php(555): include()
+#1 C:\OSPanel\domains\testwork.loc\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\testwork.loc\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\testwork.loc\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\testwork.loc\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\testwork.loc\wp-content\themes\storefront-child\functions.php на строке 13
+
